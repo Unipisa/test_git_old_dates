@@ -62,6 +62,6 @@ Otherwise we get
 remote: error: object 5cd7764bbc9e75f76c70bc24a8a44d095c7d6e9d: badDateOverflow: invalid author/committer line - date causes integer overflow
 ```
 
+UPDATE
+seems to not work for dates <= 1900 or >= 2100
 
-
-´´
